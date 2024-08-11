@@ -10,3 +10,6 @@ git status
 git add
 git commit
 ```
+
+![Test 1](/Capture.PNG)
+
